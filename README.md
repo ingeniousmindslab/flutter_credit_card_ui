@@ -14,7 +14,6 @@ dependencies:
 
 ```
 
-
 ## Usage
 
 Import the package into your Dart file:
@@ -24,10 +23,7 @@ import 'package:flutter_credit_card_ui/flutter_credit_card_ui.dart';
 
 ```
 
-
 Use the `CreditCardWidget` widget to create a card interface:
-
-<pre><div class="bg-black rounded-md mb-4"><div class="flex items-center relative text-gray-200 bg-gray-800 px-4 py-2 text-xs font-sans justify-between rounded-t-md"><br class="Apple-interchange-newline"/></div></div></pre>
 
 ```
 CreditCardWidget(
@@ -54,7 +50,6 @@ CreditCardWidget(
 
 ```
 
-
 ## About Us
 
 `flutter_credit_card_ui` is developed and maintained by Ingenious Minds Lab, a software development company specializing in mobile and web applications.
@@ -64,7 +59,6 @@ Learn more about us and our projects on our website: [www.ingeniousmindslab.com]
 ## Contributions
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue on the [GitHub repository](https://github.com/ingeniousmindslab/flutter_credit_card_ui).
-
 
 ## License
 
