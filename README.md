@@ -52,7 +52,7 @@ CreditCardWidget(
 
 ## Showcase
 
-<img src="image/README/1688365129907.png" width="250">
+<img src="https://raw.githubusercontent.com/ingeniousmindslab/flutter_credit_card_ui/blob/master/images/showcase.gif" width="250">
 
 
 ## About Us

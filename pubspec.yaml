@@ -1,6 +1,6 @@
 name: flutter_credit_card_ui
 description: package that allows you to easily create debit card and credit card user interfaces. With this package, users can also flip the card to view additional details. It provides customizable options for card decoration, such as gradient colors, background images, and various text styles.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/ingeniousmindslab/flutter_credit_card_ui
 
 environment:
