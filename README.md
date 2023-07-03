@@ -50,6 +50,10 @@ CreditCardWidget(
 
 ```
 
+## Showcase
+
+![1688365129907](image/README/1688365129907.png)
+
 ## About Us
 
 `flutter_credit_card_ui` is developed and maintained by Ingenious Minds Lab, a software development company specializing in mobile and web applications.
