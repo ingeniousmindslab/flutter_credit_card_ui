@@ -52,7 +52,8 @@ CreditCardWidget(
 
 ## Showcase
 
-![1688365129907](image/README/1688365129907.png | width=150)
+<img src="image/README/1688365129907.png" width="250">
+
 
 ## About Us
 
